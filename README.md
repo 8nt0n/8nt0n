@@ -4,7 +4,6 @@ A 16 year old developer from Germany 🇩🇪
 
 ---
 
-<br>
 <h2>Projects</h2>
 
 <table>
@@ -36,8 +35,6 @@ A 16 year old developer from Germany 🇩🇪
   </tr>
 </table>
 
-
-<br>
 
 
 <h2>📜 Certifications</h2>
