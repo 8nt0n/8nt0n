@@ -39,10 +39,11 @@ A 16 year old developer from Germany 🇩🇪
 
 <h2>📜 Certifications</h2>
 
-<p>
-  I successfully completed <strong><a href="https://cs50.harvard.edu/x" target="_blank">CS50x: Introduction to Computer Science</a></strong> by Harvard University.
-</p>
-
 <a href="https://certificates.cs50.io/73c481fb-2953-48eb-ae40-fc7cb371fc8f.pdf?size=letter" target="_blank">
   <img src="https://raw.githubusercontent.com/8nt0n/8nt0n/refs/heads/main/CS50x.png" alt="CS50 Certificate" width="400" style="border-radius: 15px;"/>
 </a>
+
+<p>
+  📚 Completed <strong><a href="https://cs50.harvard.edu/x" target="_blank">CS50x</a></strong> – Harvard's legendary computer science intro course.<br/>
+  Covered: C, Python, algorithms, data structures, web, and more.
+</p>
