@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/8nt0n/8nt0n/refs/heads/main/github%20desc/projects-header.png" style="vertical-align:middle;"/>
 
-<a href="https://github.com/8nt0n/streamed" target="_blank">
+<a href="https://github.com/8nt0n/streamed-flask" target="_blank">
       <img src="https://raw.githubusercontent.com/8nt0n/8nt0n/refs/heads/main/github%20desc/projects-streamed.png" style="vertical-align:middle;"/>
 </a>
 
