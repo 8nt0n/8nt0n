@@ -26,3 +26,7 @@
 <a href="https://certificates.cs50.io/73c481fb-2953-48eb-ae40-fc7cb371fc8f.pdf?size=letter" target="_blank"> 
       <img src="https://raw.githubusercontent.com/8nt0n/8nt0n/refs/heads/main/github%20desc/certifications-6200x.png" style="vertical-align:middle;"/>
 </a>
+
+<a href="https://raw.githubusercontent.com/8nt0n/8nt0n/refs/heads/main/github%20desc/internship_certificate.jpeg" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/8nt0n/8nt0n/refs/heads/main/github%20desc/internship-certificate.png" style="vertical-align:middle;"/>
+</a>
